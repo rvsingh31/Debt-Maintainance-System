@@ -1,0 +1,34 @@
+
+#underline{
+	color:blue;
+	font-size:1.3em;
+	padding:10px;
+	border:none;
+}
+#underline:focus{
+
+	 outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ea3ed;
+
+}
+#tex{
+	color:#e3f2fd;
+}
+#para{
+	color:white;
+}
+input:focus{
+	 outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ea3ed;
+}
+	
+input {
+	color:blue;
+  width: 100%;
+  padding: 0.5em 0.5em;
+  font-size: 1.2em;
+  border-radius: 3px;
+  border: 1px solid #D9D9D9;
+}

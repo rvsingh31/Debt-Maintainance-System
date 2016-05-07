@@ -1,0 +1,1 @@
+THis folder is an api for sending messages to the enrolled users using way2sms
